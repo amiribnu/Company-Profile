@@ -1,0 +1,123 @@
+{
+    "Beranda": "Beranda",
+    "Tentang Kami": "Tentang Kami",
+    "Layanan TI": "Layanan TI",
+    "Konsultan TI": "Konsultan TI",
+    "Pelatihan & Sertifikasi TI": "Pelatihan & Sertifikasi TI",
+    "Layanan Cloud": "Layanan Cloud",
+    "Aplikasi Perangkat Lunak": "Aplikasi Perangkat Lunak ",
+    "Perusahaan Produk TI": "Perusahaan Produk TI",
+    "Keamanan Siber TI": "Keamanan Siber TI",
+    "Pengembangan Perangkat Lunak": "Pengembangan Perangkat Lunak",
+    "Pelatihan": "Pelatihan",
+    "Blog": "Blog",
+    "Karier": "Karier",
+    "Kontak": "Kontak",
+    "navbar": {},
+    "Penyelenggara resmi ujian sertifikasi internasional": "Penyelenggara resmi ujian sertifikasi internasional",
+    "Kantor Bandung": "Kantor Bandung",
+    "Ikuti Kami": "Ikuti Kami",
+    "Solusi TI": "Solusi TI",
+    "footer": {},
+    "Baca selengkapnya": "Baca selengkapnya",
+    "Muat lebih banyak": "Muat lebih banyak",
+    "Semua": "Semua",
+    "Semua blog telah ditampilkan": "Semua blog telah ditampilkan",
+    "Filter": "Filter",
+    "Filter berdasarkan kategori": "Filter berdasarkan kategori",
+    "Blog Terkait": "Blog Terkait",
+    "blog": {},
+    "about": {
+        "banner": {
+            "h1": "TENTANG KAMI",
+            "p": "Kami memahami bahwa setiap tantangan adalah peluang untuk tumbuh dan berkembang. Kami berdedikasi untuk memberikan nilai tambah yang luar biasa bagi klien kami, membantu mereka mencapai tujuan mereka dengan keunggulan dan kepercayaan. Ketika Anda memilih kami, Anda memilih untuk bergabung dalam perjalanan menuju keberhasilan, di mana kreativitas, teknologi, dan inovasi bertemu untuk menciptakan masa depan yang cerah. Bersama, mari kita ciptakan perbedaan."
+        },
+        "certification": {
+            "title": "Sertifikasi Kami",
+            "subTitle": "Jaminan Anda untuk Solusi Terbaik",
+            "description": "Kami memastikan komitmen kami terhadap kualitas dan keunggulan melalui tindakan nyata. Sertifikasi ini sebagai bukti komitmen kami untuk memberikan keunggulan konsisten dalam setiap proyek, dari awal hingga penyelesaian. Kami berharap dapat terus memperkuat kepercayaan Anda pada kami dan membuktikan nilai-nilai kami melalui setiap proyek yang kami kerjakan."
+        },
+        "services": {
+            "subTitle": "Layanan yang Kami Tawarkan",
+            "cards": {
+                "card1": {
+                    "icon": "IT Consultant.png",
+                    "title": "Konsultan TI",
+                    "description": "Memberikan saran dan solusi kepada organisasi atau klien untuk membantu memahami, merencanakan, mengimplementasikan, dan mengelola teknologi informasi yang sesuai dengan tujuan bisnis yang dibutuhkan"
+                },
+                "card2": {
+                    "icon": "IT Product Hardware.png",
+                    "title": "Perangkat Keras Produk TI",
+                    "description": "Merancang, mengembangkan, menguji, dan mendukung produk perangkat keras teknologi informasi. Terlibat dalam seluruh siklus hidup produk, mulai dari konseptualisasi hingga produksi pemeliharaaan."
+                },
+                "card3": {
+                    "icon": "IT Cybersecurity.png",
+                    "title": "Keamanan Siber TI",
+                    "description": "Melindungi sistem komputer, jaringan, data, dan informasi sensitif dari ancaman siber dan serangan siber."
+                },
+                "card4": {
+                    "icon": "IT Software Application.png",
+                    "title": "Aplikasi Perangkat Lunak",
+                    "description": "Merancang, mengembangkan, menguji, dan mendukung aplikasi perangkat lunak untuk pemenuhan kebutuhan bisnis atau organisasi"
+                },
+                "card5": {
+                    "icon": "IT Consultant.png",
+                    "title": "Pelatihan & Sertifikasi TI",
+                    "description": "Bertanggung jawab merencanakan, mengembangkan, dan menyampaikan program pelatihan teknologi informasi individu atau kelompok juga berperan dalam mengelola proses sertifikasi untuk memvalidasi kompetensi teknis individu."
+                },
+                "card6": {
+                    "icon": "IT Software Application.png",
+                    "title": "Layanan Cloud",
+                    "description": "Kumpulan sumber daya komputasi, penyimpanan, dan jaringan yang disediakan melalui internet oleh penyedia layanan cloud. Layanan Cloud berperan penting dalam mendukung transformasi digital dan pengembangan berbagai jenis aplikasi dan layanan"
+                }
+            }
+        },
+        "contact": {
+            "title1": "Tentukan Tujuan Anda, ",
+            "title2": "Kami Siap Menjadi Mitra untuk ",
+            "title3": "Bertransformasi & Mencapai Pertumbuhan yang Luar Biasa",
+            "followUs": "Ikuti kami di Media Sosial",
+            "placeholder": {
+                "phone": "No Ponsel",
+                "name": "Nama",
+                "email": "Email Perusahaan",
+                "message": "Pesan"
+            },
+            "sendButton": "Kirim"
+        }
+    },
+    "Halaman Utama Home": {},
+    "Mitra dalam solusi": "Mitra dalam solusi",
+    "IT Services dan": "IT Services dan",
+    "Tingkatkan": "Tingkatkan",
+    "Bisnis Digital": "Bisnis Digital",
+    "Anda": "Anda",
+    "Pelajari cara mengadopsi dan mengadaptasi teknologi terbaru, sehingga bisnis Anda tidak ketinggalan dan unggul dalam persaingan": "Pelajari cara mengadopsi dan mengadaptasi teknologi terbaru, sehingga bisnis Anda tidak ketinggalan dan unggul dalam persaingan",
+    "Mulai": "Mulai",
+    "Bangun Kepercayaan dan Berikan Solusi": "Bangun Kepercayaan dan Berikan Solusi",
+    "ProudIT berkomitmen memberikan layanan IT terbaik dengan pelayanan ramah, Delivery & sharing berkaitan dengan teknologi yang sedang trend dengan Harga yang terbaik, sesuai dengan kebutuhan Perusahaan": "ProudIT berkomitmen memberikan layanan IT terbaik dengan pelayanan ramah, Delivery & sharing berkaitan dengan teknologi yang sedang trend dengan Harga yang terbaik, sesuai dengan kebutuhan Perusahaan",
+    "Kami memiliki tekad dan semangat pantang menyerah untuk mencapai tujuan kami": "Kami memiliki tekad dan semangat pantang menyerah untuk mencapai tujuan kami",
+    "Ketangguhan kami menghadapi tantangan adalah landasan kesuksesan kami": "Ketangguhan kami menghadapi tantangan adalah landasan kesuksesan kami",
+    "Kami memandang masa depan dengan penuh optimisme dan keyakinan": "Kami memandang masa depan dengan penuh optimisme dan keyakinan",
+    "Kami adalah tim yang solid, bersatu, dan saling mendukung": "Kami adalah tim yang solid, bersatu, dan saling mendukung",
+    "Dedikasi kami terhadap pekerjaan adalah kunci kesuksesan kami": "Dedikasi kami terhadap pekerjaan adalah kunci kesuksesan kami",
+    "Kami selalu mencari cara baru dan inovatif untuk memajukan bisnis kami": "Kami selalu mencari cara baru dan inovatif untuk memajukan bisnis kami",
+    "Kami mengutamakan transparansi dalam semua tindakan dan keputusan kami": "Kami mengutamakan transparansi dalam semua tindakan dan keputusan kami",
+    "Informasi lebih lanjut": "Informasi lebih lanjut",
+    "Kepercayaan Anda": "Kepercayaan Anda",
+    "Pilar Kesuksesan Kami": "Pilar Kesuksesan Kami",
+    "Tentang ProudIT": "Tentang ProudIT",
+    "Tulis Review": "Tulis Review",
+    "Baca Selengkapnya": "Baca Selengkapnya",
+    "Baca lebih banyak": "Baca lebih banyak",
+    "Layanan kami dan": "Layanan kami dan",
+    "Solusi IT": "Solusi IT",
+    "Bersama Perusahaan Terkemuka": "Bersama Perusahaan Terkemuka",
+    "Mengukir Jejak Keberhasilan": "Mengukir Jejak Keberhasilan",
+    "PT. Sapta Pilar Nusantara bangga telah menjalin kemitraan dengan beberapa perusahaan terkemuka. Kami berkomitmen untuk terus menjalin kemitraan yang kuat untuk menghadirkan solusi teknologi yang relevan dan terdepan bagi Anda, serta mempercepat kesuksesan bisnis Anda dalam era digital yang terus berkembang": "PT. Sapta Pilar Nusantara bangga telah menjalin kemitraan dengan beberapa perusahaan terkemuka. Kami berkomitmen untuk terus menjalin kemitraan yang kuat untuk menghadirkan solusi teknologi yang relevan dan terdepan bagi Anda, serta mempercepat kesuksesan bisnis Anda dalam era digital yang terus berkembang.",
+    "Artikel": "Artikel",
+    "Tertarik untuk bekerjasama dengan kami?": "Tertarik untuk bekerjasama dengan kami?",
+    "Tingkatkan kualitas IT Services": "Tingkatkan kualitas IT Services",
+    "Perusahaan anda sekarang!": "Perusahaan anda sekarang!",
+    "Hubungi kami sekarang!": "Hubungi kami sekarang!"
+}

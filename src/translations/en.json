@@ -1,0 +1,117 @@
+{
+    "Beranda": "Home",
+    "Tentang Kami": "About Us",
+    "Layanan TI": "IT Services",
+    "Konsultan TI": "IT Consultant",
+    "Pelatihan & Sertifikasi TI": "IT Training & Certification",
+    "Layanan Cloud": "Cloud Services",
+    "Aplikasi Perangkat Lunak": "Software Application ",
+    "Perusahaan Produk TI": "IT Product Enterprise",
+    "Keamanan Siber TI": "IT Cyber Security",
+    "Pengembangan Perangkat Lunak": "Software Development",
+    "Pelatihan": "Training",
+    "Blog": "Blog",
+    "Karier": "Career",
+    "Kontak": "Contact",
+    "navbar": {},
+    "Penyelenggara resmi ujian sertifikasi internasional": "Official organizer of international certification exams",
+    "Kantor Bandung": "Bandung Office",
+    "Ikuti Kami": "Follow Us",
+    "Solusi TI": "IT Solutions",
+    "footer": {},
+    "Baca selengkapnya": "Read More",
+    "Muat lebih banyak": "Load More",
+    "Semua": "All",
+    "Semua blog telah ditampilkan": "All blogs have been displayed",
+    "Filter": "Filters",
+    "Filter berdasarkan kategori": "Filter by category",
+    "Blog Terkait": "Related Blogs",
+    "blog": {},
+    "about": {
+        "banner": {
+            "h1": "ABOUT US",
+            "p": "We understand that every challenge is an opportunity for growth and development. We are dedicated to providing exceptional value to our clients, assisting them in achieving their goals with excellence and trust. When you choose us, you choose to embark on a journey towards success, where creativity, technology, and innovation come together to create a bright future. Together, let's make a difference."
+        },
+        "certification": {
+            "title": "Our Certification",
+            "subTitle": "Your Guarantee for the Best Solution",
+            "description": "We ensure our commitment to quality and excellence through tangible actions. This certification serves as evidence of our dedication to delivering consistent excellence in every project, from inception to completion. We hope to continue strengthening your confidence in us and proving our values through each project we undertake."
+        },
+        "services": {
+            "subTitle": "The Services We Offer",
+            "cards": {
+                "card1": {
+                    "title": "IT Consultant",
+                    "description": "Providing advice and solutions to organizations or clients to help understand, plan, implement, and manage information technology that aligns with the required business objectives."
+                },
+                "card2": {
+                    "title": "IT Product Hardware",
+                    "description": "Designing, developing, testing, and supporting information technology hardware products. Involved in the entire product lifecycle, from conceptualization to production and maintenance."
+                },
+                "card3": {
+                    "title": "IT Cybersecurity",
+                    "description": "Protecting computer systems, networks, data, and sensitive information from cyber threats and cyber attacks."
+                },
+                "card4": {
+                    "title": "Software Application",
+                    "description": "Designing, developing, testing, and supporting software applications to meet the business or organizational needs."
+                },
+                "card5": {
+                    "title": "IT Training & Certificated",
+                    "description": "Responsible for planning, developing, and delivering individual or group information technology training programs, also involved in managing the certification process to validate individual technical competencies."
+                },
+                "card6": {
+                    "title": "Cloud Computing Services",
+                    "description": "A collection of computing, storage, and networking resources provided over the internet by a cloud service provider. Cloud services play a crucial role in supporting digital transformation and the development of various types of applications and services."
+                }
+            }
+        },
+        "contact": {
+            "title1": "Determine Your Goals, ",
+            "title2": "We Are Ready to Be Your Partner in ",
+            "title3": "Transformation & Achieve Extraordinary Growth",
+            "followUs": "Follow us on Social Media",
+            "placeholder": {
+                "phone": "Phone Number",
+                "name": "Name",
+                "email": "Company Email",
+                "message": "Message"
+            },
+            "sendButton": "Send"
+        }
+    },
+    "Halaman Utama Home": {},
+    "Mitra dalam solusi": "Partner in",
+    "IT Services dan": "IT Services solutions and",
+    "Tingkatkan": "Elevate",
+    "Bisnis Digital": "Your Digital",
+    "Anda": "Business",
+    "Pelajari cara mengadopsi dan mengadaptasi teknologi terbaru, sehingga bisnis Anda tidak ketinggalan dan unggul dalam persaingan": "Learn how to adopt and adapt the latest technology, so your business doesn't fall behind and stay ahead of the competition",
+    "Mulai": "Start",
+    "Bangun Kepercayaan dan Berikan Solusi": "Build Trust and Provide Solutions",
+    "ProudIT berkomitmen memberikan layanan IT terbaik dengan pelayanan ramah, Delivery & sharing berkaitan dengan teknologi yang sedang trend dengan Harga yang terbaik, sesuai dengan kebutuhan Perusahaan": "ProudIT is committed to providing the best IT services with friendly service, delivery, and sharing related to trending technologies at the best prices, in accordance with the needs of the company",
+    "Kami memiliki tekad dan semangat pantang menyerah untuk mencapai tujuan kami": "We have the determination and unyielding spirit to achieve our goals",
+    "Ketangguhan kami menghadapi tantangan adalah landasan kesuksesan kami": "Our resilience to challenges is the cornerstone of our success",
+    "Kami memandang masa depan dengan penuh optimisme dan keyakinan": "We look to the future with optimism and confidence",
+    "Kami adalah tim yang solid, bersatu, dan saling mendukung": "We are a solid team, united and supportive of each other",
+    "Dedikasi kami terhadap pekerjaan adalah kunci kesuksesan kami": "Our dedication to our work is the key to our success",
+    "Kami selalu mencari cara baru dan inovatif untuk memajukan bisnis kami": "We are always looking for new and innovative ways to drive our business forward",
+    "Kami mengutamakan transparansi dalam semua tindakan dan keputusan kami": "We prioritize transparency in all our actions and decisions",
+    "Informasi lebih lanjut": "More information",
+    "Kepercayaan Anda": "Your Trust",
+    "Pilar Kesuksesan Kami": "Our Pillar of Success",
+    "Tentang ProudIT": "About ProudIT",
+    "Tulis Review": "Write a Review",
+    "Baca Selengkapnya": "Read More",
+    "Baca lebih banyak": "Read More",
+    "Layanan kami dan": "Our Services and",
+    "Solusi IT": "IT Solutions",
+    "Bersama Perusahaan Terkemuka": "Partnering with a Leading Enterprise",
+    "Mengukir Jejak Keberhasilan": "Paving the Path to Success",
+    "PT. Sapta Pilar Nusantara bangga telah menjalin kemitraan dengan beberapa perusahaan terkemuka. Kami berkomitmen untuk terus menjalin kemitraan yang kuat untuk menghadirkan solusi teknologi yang relevan dan terdepan bagi Anda, serta mempercepat kesuksesan bisnis Anda dalam era digital yang terus berkembang": "PT. Sapta Pilar Nusantara takes pride in establishing partnerships with several leading companies. We are committed to fostering strong collaborations to deliver relevant and cutting-edge technological solutions for you, accelerating your business success in the ever-evolving digital era",
+    "Artikel": "Article",
+    "Tertarik untuk bekerjasama dengan kami?": "Interested in collaborating with us?",
+    "Tingkatkan kualitas IT Services": "Elevate the IT services quality of your",
+    "Perusahaan anda sekarang!": "company's now!",
+    "Hubungi kami sekarang!": "Contact us today!"
+}
