@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 const ContactSection = () => {
   const { t } = useTranslation();
   return (
-    <section className="my-12 md:my-20">
+    <section className=" md:my-20">
       <div className="max-w-7xl mx-auto text-center shadow-md hover:shadow-xl duration-300 transition-all">
         <div className="bg-gradient-to-r from-[#F1F1F5] to-[#E4ECF7] rounded-lg py-10 px-2 md:p-10">
           <div className="flex flex-col lg:flex-row justify-between items-center">

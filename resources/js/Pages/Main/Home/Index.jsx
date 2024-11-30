@@ -65,7 +65,7 @@ export default function Index(props) {
             <CustomerReviewSection2 />
             <SolutionSection />
             <TabSection technology={props.technology} />
-            <BlogSection />
+            
             <ContactSection />
         </div>
     );
